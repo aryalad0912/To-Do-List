@@ -1,0 +1,14 @@
+html{
+  background-color: paleturquoise;
+}
+
+.container-fluid{
+  background-color: paleturquoise;
+}
+input[type="text"]{
+  background:transparent;
+}
+
+input[type="text"]:focus{
+  background:transparent;
+}
